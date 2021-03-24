@@ -1,5 +1,10 @@
+
+section div{
+    border: 2px black solid;
+
 .a{
     background-color: rgb(150, 73, 73);
+
 }
 .b{
     background-color: rgb(94, 197, 163);
@@ -24,6 +29,8 @@
 .h{
     background-color: rgb(204, 218, 83);
 }
+
+
 .i{
     background-color: rgb(180, 89, 89);
 }
@@ -87,3 +94,4 @@
         background-color: rgb(160, 44, 44);
     }
 }
+
